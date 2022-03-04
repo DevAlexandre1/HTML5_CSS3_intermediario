@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body{
-    background-color: rgb(255, 255, 253);
+    background-color: rgb(247, 247, 228);
     margin-left: 50px;
     margin-right: 25px;
     font-family: Arial, Helvetica, sans-serif;
@@ -9,6 +9,7 @@ body{
 }
 h1 {
     background-color: aliceblue;
+    background-size: auto;
     text-align: center;
     color: blue;
     font-size: 50px;
