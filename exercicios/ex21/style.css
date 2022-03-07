@@ -19,6 +19,9 @@ h1 {
     font-size: 50px;
 
 }
+h2#bio{
+    color:black;
+}
 p{
     text-align: justify;
 }
